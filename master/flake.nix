@@ -9,7 +9,7 @@
   
   inputs.src-termbox-master.flake = false;
   inputs.src-termbox-master.owner = "fowlmouth";
-  inputs.src-termbox-master.ref   = "refs/heads/master";
+  inputs.src-termbox-master.ref   = "master";
   inputs.src-termbox-master.repo  = "nim-termbox";
   inputs.src-termbox-master.type  = "github";
   
