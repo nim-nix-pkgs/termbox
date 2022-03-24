@@ -1,5 +1,5 @@
 {
-  description = ''Termbox wrapper.'';
+  description = ''Wrapper for Termbox, it beats the hell out of curses. (https://github.com/nsf/termbox)'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
