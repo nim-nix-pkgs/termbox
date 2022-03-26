@@ -11,6 +11,7 @@
   inputs.src-termbox-master.ref   = "refs/heads/master";
   inputs.src-termbox-master.owner = "fowlmouth";
   inputs.src-termbox-master.repo  = "nim-termbox";
+  inputs.src-termbox-master.dir   = "";
   inputs.src-termbox-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
